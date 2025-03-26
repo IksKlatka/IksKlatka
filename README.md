@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Iks 👋
 
-<!--
-**IksKlatka/IksKlatka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | Problem Solver | Curious Mind
+I’m passionate about building tools, automations, and smart solutions using Python, Django, LangChain, and AI technologies.
+🎓 Recently I graduated uni with Bachelor of Engineering in Computer Science
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 What I'm currently working on:**
+- REST APIs using Django and DRF
+- Turning my Spotify playlist analysis into website and charging it with AI 
+- Automations Python, Zapier, Bitrix - automation tool that will instantiate AI Persona
+
+**🛠 Tech stack:**
+- Python ⭐⭐⭐⭐
+- SQL ⭐⭐⭐
+- Docker ⭐⭐
+- Linux ⭐⭐
+- Automations ⭐⭐
